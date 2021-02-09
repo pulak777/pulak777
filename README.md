@@ -15,10 +15,6 @@
 ![](https://img.shields.io/badge/javascript-23599C?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Social
-[![](https://img.shields.io/badge/Quora-d00000?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Pulak-Deyashi)
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pulak12345)
-[![](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11804893/pulak-deyashi)
-[![](https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJ5C8ue0ZSbFC2rsaagNxNQ)
 [![](https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vn6aXgtM)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PDeyashi)
 
