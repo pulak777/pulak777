@@ -26,4 +26,7 @@
 ### 💻
 ![](https://img.shields.io/badge/Windows-DELL_i3_12GB_1TB-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+[![Pulak's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulak777)](https://github.com/pulak777)
+#### Other stats
 [![Pulak's github stats](https://github-readme-stats.vercel.app/api?username=pulak777)](https://github.com/pulak777)
