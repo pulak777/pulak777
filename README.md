@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Pulak
-#### I'm an engineering student focused on Software Developement
 
 - 💻 I’m currently working on Web Developement and Machine Learning
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust with a focus on distributed computing
 
 ### Languages I can work with
 ![](https://img.shields.io/badge/c-23cc59?&style=for-the-badge&logo=c&logoColor=white)
